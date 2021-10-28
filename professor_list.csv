@@ -1,0 +1,342 @@
+email,name,university,send_status
+jamie@cs.dal.ca,James Blustein,Dalhousie University,1
+vlado@cs.dal.ca,Vlado Keselj,Dalhousie University,1
+eem@cs.dal.ca,Evangelos Milios,Dalhousie University,1
+stan@cs.dal.ca,Stan Matwin,Dalhousie University,1
+beiko@cs.dal.ca,Rob Beiko,Dalhousie University,1
+mheywood@cs.dal.ca,Malcolm Heywood,Dalhousie University,1
+sageev@dal.ca,Sageev Oore,Dalhousie University,1
+paulovich@dal.ca,Fernando Paulovich,Dalhousie University,1
+narges.armanfard@mcgill.ca,Narges Armanfard,McGill University,1
+dmeger@cim.mcgill.ca,David Meger,McGill University,1
+prakash@cs.mcgill.ca,Prakash Panangaden,McGill University,1
+jpineau@cs.mcgill.ca,Joelle Pineau,McGill University,1
+dprecup@cs.mcgill.ca,Doina Precup,McGill University,1
+rrabba@cs.mcgill.ca,Reihaneh Rabbany,McGill University,1
+siva@cs.mcgill.ca,Siva Reddy,McGill University,1
+blake.richards@mcgill.ca,Blake Richards,McGill University,1
+drolnick@cs.mcgill.ca,David Rolnick,McGill University,1
+siddiqi@cim.mcgill.ca,Kaleem Siddiqi,McGill University,1
+xsi@cs.mcgill.ca,Xujie Si,McGill University,1
+david.becerra@mcgill.ca,David Becerra,McGill University,1
+jvybihal@cs.mcgill.ca,Joseph Vybihal,McGill University,1
+ben.fung@mcgill.ca,Benjamin Fung,McGill University,1
+derek@cim.mcgill.ca,Derek Nowrouzezahrai,McGill University,1
+simon.gravel@mcgill.ca,Simon Gravel,McGill University,1
+adam.trischler@microsoft.com,Adam Trischler,McGill University,1
+dannytarlow@gmail.com,Danny Tarlow,McGill University,1
+xi.chen11@mcgill.ca,Xi Chen,McGill University,1
+wlh@cs.mcgill.ca,William L. Hamilton,McGill University,1
+zokaeiam@mcmaster.ca,Hassan Ashtiani,McMaster University,1
+fchiang@mcmaster.ca,Fei Chiang,McMaster University,1
+chul9@mcmaster.ca,Lingyang Chu,McMaster University,1
+brucei@mcmaster.ca,Ian C. Bruce,McMaster University,1
+chenjun@mcmaster.ca,Jun Chen,McMaster University,1
+thamas@mcmaster.ca,Ratnasingham Tharmarasa,McMaster University,1
+reillyj@mcmaster.ca,James (Jim) Reilly,McMaster University,1
+paigeri@mcmaster.ca,Richard Paige,McMaster University,1
+rzheng@mcmaster.ca,Rong Zheng,McMaster University,1
+geoffrey.chan@queensu.ca,Wai-Yip Geoffrey Chan,Queen's University,1
+ali.etemad@queensu.ca,Ali Etemad,Queen's University,1
+ilmin.kim@queensu.ca,Il-Min Kim,Queen's University,1
+gazor@queensu.ca,Saeed Gazor,Queen's University,1
+zhu2048@gmail.com,Xiaodan Zhu,Queen's University,1
+ding@cs.queensu.ca,Steven Ding,Queen's University,1
+givigi@cs.queensu.ca,Sidney Givigi,Queen's University,1
+christian.muise@queensu.ca,Christian Muise,Queen's University,1
+y.tian@queensu.ca,Yuan Tian,Queen's University,1
+duan@cs.queensu.ca,Qingling Duan,Queen's University,1
+c.stinson@queensu.ca,Catherine Stinson,Queen's University,1
+jstewart@cs.queensu.ca,James Stewart,Queen's University,1
+ahmed@cs.queensu.ca,Ahmed E. Hassan,Queen's University,1
+angel_xuan_chang@sfu.ca,Angel Chang,Simon Fraser University,1
+ester@cs.sfu.ca,Martin Ester,Simon Fraser University,1
+furukawa@sfu.ca,Yasutaka Furukawa,Simon Fraser University,1
+maxwl@sfu.ca,Maxwell W Libbrecht,Simon Fraser University,1
+hangma@sfu.ca,Hang Ma,Simon Fraser University,1
+mori@cs.sfu.ca,Greg Mori,Simon Fraser University,1
+keval@sfu.ca,Keval Vora,Simon Fraser University,1
+kkyin@cs.sfu.ca,Kangkang Yin,Simon Fraser University,1
+amahdavi@sfu.ca,Ali Mahdavi-Amiri,Simon Fraser University,1
+ibajic@sfu.ca,Ivan Bajic,Simon Fraser University,1
+jiel@sfu.ca,Jie Liang,Simon Fraser University,1
+saba@sfu.ca,Saba Alimadadi,Simon Fraser University,1
+anoop@cs.sfu.ca,Anoop Sarkar,Simon Fraser University,1
+keli@sfu.ca,Ke Li,Simon Fraser University,1
+taowang@sfu.ca,Tao Wang,Simon Fraser University,1
+wiese@cs.sfu.ca,Kay C Wiese,Simon Fraser University,1
+jnwang@sfu.ca,Jiannan Wang,Simon Fraser University,1
+ardakanian@ualberta.ca,Omid Ardakanian,University of Alberta,1
+abram.hindle@ualberta.ca,Abram Hindle,University of Alberta,1
+denilson@ualberta.ca,Denilson Barbosa,University of Alberta,1
+gkondrak@ualberta.ca,Greg Kondrak,University of Alberta,1
+lmou@ualberta.ca,Lili Mou,University of Alberta,1
+dale@cs.ualberta.ca,Dale Schuurmans,University of Alberta,1
+carrie.demmans.epp@ualberta.ca,Carrie Demmans,University of Alberta,1
+michael.bowling@ualberta.ca,Michael Bowling,University of Alberta,1
+basu@ualberta.ca,Anup Basu,University of Alberta,1
+pierre.boulanger@ualberta.ca,Pierre Boulanger,University of Alberta,1
+bulitko@ualberta.ca,Vadim Bulitko,University of Alberta,1
+mburo@ualberta.ca,Michael Buro,University of Alberta,1
+alona@ualberta.ca,Alona Fyshe,University of Alberta,1
+rgoebel@ualberta.ca,Randy Goebel,University of Alberta,1
+rgreiner@ualberta.ca,Russ Greiner,University of Alberta,1
+nidhi.hegde@ualberta.ca,Nidhi Hegde,University of Alberta,1
+martin.jagersand@ualberta.ca,Martin Jagersand,University of Alberta,1
+armahmood@ualberta.ca,Rupam Mahmood,University of Alberta,1
+martin.mueller@ualberta.ca,Martin Mueller,University of Alberta,1
+nadi@ualberta.ca,Sarah Nadi,University of Alberta,1
+drafiei@ualberta.ca,Davood Rafiei,University of Alberta,1
+nray1@ualberta.ca,Nilanjan Ray,University of Alberta,1
+jsander@ualberta.ca,Joerg Sander,University of Alberta,1
+jonathan@ualberta.ca,Jonathan Schaeffer,University of Alberta,1
+nathanst@ualberta.ca,Nathan Sturtevant,University of Alberta,1
+rsutton@ualberta.ca,Rich Sutton,University of Alberta,1
+csaba.szepesvari@ualberta.ca,Csaba Szepesvari,University of Alberta,1
+adam.white@ualberta.ca,Adam White,University of Alberta,1
+whitem@ualberta.ca,Martha White,University of Alberta,1
+david.wishart@ualberta.ca,David Wishart,University of Alberta,1
+james.wright@ualberta.ca,James Wright,University of Alberta,1
+herb.yang@ualberta.ca,Herb Yang,University of Alberta,1
+jyou@ualberta.ca,Jia-Huai You,University of Alberta,1
+zaiane@ualberta.ca,Osmar Zaiane,University of Alberta,1
+carenini@cs.ubc.ca,Giuseppe Carenini,The University of British Columbia,1
+jeff.clune@ubc.ca,Jeff Clune,The University of British Columbia,1
+condon@cs.ubc.ca,Anne Condon,The University of British Columbia,1
+kvarada@cs.ubc.ca,Varada Kolhatkar,The University of British Columbia,1
+mathias.lecuyer@ubc.ca,Mathias Lecuyer,The University of British Columbia,1
+laks@cs.ubc.ca,Laks V.S. Lakshmanan,The University of British Columbia,1
+kevinlb@cs.ubc.ca,Kevin Leyton-Brown,The University of British Columbia,1
+little@cs.ubc.ca,Jim Little,The University of British Columbia,1
+maclean@cs.ubc.ca,Karon MacLean,The University of British Columbia,1
+joanna@cs.ubc.ca,Joanna McGrenere,The University of British Columbia,1
+tmm@cs.ubc.ca,Tamara Munzner,The University of British Columbia,1
+rng@cs.ubc.ca,Raymond Ng,The University of British Columbia,1
+poole@cs.ubc.ca,David Poole,The University of British Columbia,1
+rap@cs.ubc.ca,Rachel Pottinger,The University of British Columbia,1
+rhodin@cs.ubc.ca,Helge Rhodin,The University of British Columbia,1
+aroth@cs.ubc.ca,Andrew Roth,The University of British Columbia,1
+schmidtm@cs.ubc.ca,Mark Schmidt,The University of British Columbia,1
+vshwartz@cs.ubc.ca,Vered Shwartz,The University of British Columbia,1
+lsigal@cs.ubc.ca,Leonid Sigal,The University of British Columbia,1
+dsuth@cs.ubc.ca,Danica Sutherland,The University of British Columbia,1
+van@cs.ubc.ca,Michiel van de Panne,The University of British Columbia,1
+fwood@cs.ubc.ca,Frank Wood,The University of British Columbia,1
+kmyi@cs.ubc.ca,Kwang Moo Yi,The University of British Columbia,1
+yoon@cs.ubc.ca,Dongwook Yoon,The University of British Columbia,1
+boyd@cpsc.ucalgary.ca,Jeffrey Boyd,University of Calgary,1
+marina@cpsc.ucalgary.ca,Marina Gavrilova,University of Calgary,1
+alhajj@ucalgary.ca,Reda Alhajj,University of Calgary,1
+jboyd@ucalgary.ca,Jeffrey Edwin Boyd,University of Calgary,1
+helen.he1@ucalgary.ca,Helen Ai He,University of Calgary,1
+jwhudson@ucalgary.ca,Jonathan Hudson,University of Calgary,1
+ryo.suzuki@ucalgary.ca,Ryo Suzuki,University of Calgary,1
+richard.zhao1@ucalgary.ca,Richard Zhao,University of Calgary,1
+hadi.hemmati@ucalgary.ca,Hadi Hemmati,University of Calgary,1
+leungh@ucalgary.ca,Henry Leung,University of Calgary,1
+ethan.macdonald@ucalgary.ca,M. Ethan MacDonald,University of Calgary,1
+gmessier@ucalgary.ca,Geoffrey Messier,University of Calgary,1
+mmoshirp@ucalgary.ca,Mohammad Moshirpour,University of Calgary,1
+brucen@uoguelph.ca,Neil Bruce,University of Guelph,1
+dcalvert@uoguelph.ca,David Calvert,University of Guelph,1
+ali@cybersciencelab.org,Ali dehghan,University of Guelph,1
+fsong@uoguelph.ca,Fei Song,University of Guelph,1
+fjwang@uoguelph.ca,Fangju Wang,University of Guelph,1
+gwtaylor@uoguelph.ca,Graham W. Taylor,University of Guelph,1
+young@cs.umanitoba.ca,James Young,University of Manitoba,1
+kleung@cs.umanitoba.ca,Carson Kai-Sang Leung,University of Manitoba,1
+andersj@cs.umanitoba.ca,John Anderson,University of Manitoba,1
+fbristow@cs.umanitoba.ca,Franklin Bristow,University of Manitoba,1
+andrea.bunt@umanitoba.ca,Andrea Bunt,University of Manitoba,1
+kamalis@cs.umanitoba.ca,Shahin Kamali,University of Manitoba,1
+noman@cs.umanitoba.ca,Noman Mohammed,University of Manitoba,1
+tulsi@cs.umanitoba.ca,Ruppa Thulasiram,University of Manitoba,1
+shaowei.wang@umanitoba.ca,Shaowei Wang,University of Manitoba,1
+sara.rouhani@umanitoba.ca,Sara Rouhani,University of Manitoba,1
+ywang@cs.umanitoba.ca,Yang Wang,University of Manitoba,1
+pfallavo@uottawa.ca,Pascal Fallavollita,University of Ottawa,1
+vgroza@uOttawa.ca,Voicu Groza,University of Ottawa,1
+laganier@uOttawa.ca,Robert Laganière,University of Ottawa,1
+jlang@uOttawa.ca,Jochen Lang,University of Ottawa,1
+ppayeur@uOttawa.ca,Pierre Payeur,University of Ottawa,1
+petriu@uOttawa.ca,Emil M. Petriu,University of Ottawa,1
+Martin.Bouchard@uOttawa.ca,Martin Bouchard,University of Ottawa,1
+hdajani@uOttawa.ca,Hilmi Dajani,University of Ottawa,1
+edubois@uOttawa.ca,Eric Dubois,University of Ottawa,1
+wslee@uOttawa.ca,WonSook Lee,University of Ottawa,1
+pbranco@uottawa.ca,Paula Branco,University of Ottawa,1
+lbriand@uOttawa.ca,Lionel Briand,University of Ottawa,1
+dinkpen@uOttawa.ca,Diana Inkpen,University of Ottawa,1
+njapkow@uOttawa.ca,Nathalie Japkowicz,University of Ottawa,1
+snejati@uOttawa.ca,Shiva Nejati,University of Ottawa,1
+M.Sabetzadeh@uOttawa.ca,Mehrdad Sabetzadeh,University of Ottawa,1
+ttran@uOttawa.ca,Thomas Tran,University of Ottawa,1
+marcel.turcotte@uOttawa.ca,Marcel Turcotte,University of Ottawa,1
+eramian@cs.usask.ca,Mark Eramian,University of Saskatchewan,1
+gutwin@cs.usask.ca,Carl Gutwin,University of Saskatchewan,1
+horsch@cs.usask.ca,Michael Horsch,University of Saskatchewan,1
+lingling.jin@cs.usask.ca,Lingling Jin,University of Saskatchewan,1
+regan@cs.usask.ca,Regan Mandryk,University of Saskatchewan,1
+mcquillan@cs.usask.ca,Ian McQuillan,University of Saskatchewan,1
+eric@cs.usask.ca,Eric Neufeld,University of Saskatchewan,1
+banani.roy@usask.ca,Banani Roy,University of Saskatchewan,1
+kevin.schneider@usask.ca,Kevin Schneider,University of Saskatchewan,1
+jiv@cs.usask.ca,Julita Vassileva,University of Saskatchewan,1
+fanny@cs.toronto.edu,Fanny Chevalier,University of Toronto,1
+duvenaud@cs.toronto.edu,David Kristjanson Duvenaud,University of Toronto,1
+fidler@cs.toronto.edu,Sanja Fidler,University of Toronto,1
+marzyeh@cs.toronto.edu,Marzieh Ghasemi,University of Toronto,1
+gpenn@cs.toronto.edu,Gerald Penn,University of Toronto,1
+cosmin.munteanu@utoronto.ca,Cosmin Munteanu,University of Toronto,1
+Bianca@cs.toronto.edu,Bianca Schroeder,University of Toronto,1
+nicolas.papernot@utoronto.ca,Nicolas Papernot,University of Toronto,1
+daniel.roy@utoronto.ca,Daniel Roy,University of Toronto,1
+kostas@ece.utoronto.ca,Konstantinos N.Plataniotis,University of Toronto,1
+shuruiz@ece.utoronto.ca,Shurui Zhou,University of Toronto,1
+jimmy@psi.toronto.edu,Jimmy Ba,University of Toronto,1
+erdogdu@cs.toronto.edu,Murat A. Erdogdu,University of Toronto,1
+radford@stat.utoronto.ca,Radford M. Neal,University of Toronto,1
+farahmand@vectorinstitute.ai,Amir-massoud Farahmand,University of Toronto,1
+rgrosse@cs.toronto.edu,Roger Grosse,University of Toronto,1
+frey@psi.toronto.edu,Brendan J. Frey,University of Toronto,1
+zemel@cs.toronto.edu,Richard Zemel,University of Toronto,1
+bhaworth@uvic.ca,Brandon Haworth,University of Victoria,1
+gtzan@cs.uvic.ca,George Tzanetakis,University of Victoria,1
+peterd@ece.uvic.ca,Peter F. Driessen,University of Victoria,1
+beau@csd.uwo.ca,Steven Beauchemin,Western University,1
+daley@csd.uwo.ca,Mark Daley,Western University,1
+elsakka@csd.uwo.ca,Mahmoud El-Sakka,Western University,1
+ilie@csd.uwo.ca,Lucian Ilie,Western University,1
+katchab@csd.uwo.ca,Mike Katchabaw,Western University,1
+cling@csd.uwo.ca,Charles Ling,Western University,1
+dlizotte@uwo.ca,Daniel Lizotte,Western University,1
+ymohsenz@uwo.ca,Yalda Mohsenzadeh,Western University,1
+moreno@csd.uwo.ca,Marc Moreno Maza,Western University,1
+sedig@uwo.ca,Kamran Sedig,Western University,1
+bwang@csd.uwo.ca,Boyu Wang,Western University,1
+kzhang@csd.uwo.ca,Kaizhong Zhang,Western University,1
+shai@uwaterloo.ca,Shai Ben-David,University of Waterloo,1
+yboykov@uwaterloo.ca,Yuri Boykov,University of Waterloo,1
+rcohen@uwaterloo.ca,Robin Cohen,University of Waterloo,1
+kimon.fountoulakis@uwaterloo.ca,Kimon Fountoulakis,University of Waterloo,1
+jhoey@cs.uwaterloo.ca,Jesse Hoey,University of Waterloo,1
+lila.kari@uwaterloo.ca,Lila Kari,University of Waterloo,1
+kate.larson@uwaterloo.ca,Kate Larson,University of Waterloo,1
+edith.law@uwaterloo.ca,Edith Law,University of Waterloo,1
+cdimarco@uwaterloo.ca,Chrysanne Di Marco,University of Waterloo,1
+jeff.orchard@uwaterloo.ca,Jeff Orchard,University of Waterloo,1
+ppoupart@uwaterloo.ca,Pascal Poupart,University of Waterloo,1
+peter.vanbeek@uwaterloo.ca,Peter van Beek,University of Waterloo,1
+oveksler@uwaterloo.ca,Olga Veksler,University of Waterloo,1
+yaoliang.yu@uwaterloo.ca,Yaoliang Yu,University of Waterloo,1
+hongyanz@ttic.edu,Hongyang Zhang,University of Waterloo,1
+vganesh@uwaterloo.ca,Vijay Ganesh,University of Waterloo,1
+karray@uwaterloo.ca,Fakhri karray,University of Waterloo,1
+bil@eecs.yorku.ca,Vassilios Tzerpos,University of York,1
+aan@cse.yorku.ca,Aijun An,University of York,1
+marzieha@eecs.yorku.ca,Marzieh Ahmadzadeh,University of York,1
+hj@eecs.yorku.ca,Hui Jiang,University of York,1
+butz@cs.uregina.ca,Cory Butz,University of Regina,1
+fan@cs.uregina.ca,Lisa Fan,University of Regina,1
+david.gerhard@uregina.ca,David Gerhard,University of Regina,1
+hamilton@cs.uregina.ca,Howard J. Hamilton,University of Regina,1
+hepting@cs.uregina.ca,Daryl H. Hepting,University of Regina,1
+hilder@cs.uregina.ca,Robert J. Hilderman,University of Regina,1
+mouhoubm@uregina.ca,Malek Mouhoub,University of Regina,1
+yang@cs.uregina.ca,Xue Dong Yang,University of Regina,1
+jtyao@cs.uregina.ca,JingTao Yao,University of Regina,1
+yyao@cs.uregina.ca,Yiyu Yao,University of Regina,1
+zilles@cs.uregina.ca,Sandra Zilles,University of Regina,1
+Dave.Campbell@carleton.ca,Dave Campbell,Carleton University,1
+RabeAbdalkareem@cunet.carleton.ca,Rabe Abdalkareem,Carleton University,1
+Olga.Baysal@carleton.ca,Olga Baysal,Carleton University,1
+frank@dehne.net,Frank Dehne,Carleton University,1
+Ahmed.ElRoby@carleton.ca,Ahmed El-Roby,Carleton University,1
+Yuhong.Guo@carleton.ca,Yuhong Guo,Carleton University,1
+Matthew.Holden@carleton.ca,Matthew Holden,Carleton University,1
+Majid.Komeili@carleton.ca,Majid Komeili,Carleton University,1
+lanthier@scs.carleton.ca,Mark Lanthier,Carleton University,1
+anil_maheshwari@carleton.ca,Anil Maheshwari,Carleton University,1
+nussbaum@scs.carleton.ca,Doron Nussbaum,Carleton University,1
+oommen@scs.carleton.ca,John Oommen,Carleton University,1
+AlanTsang@cunet.carleton.ca,Alan Tsang,Carleton University,1
+Oliver.vanKaick@carleton.ca,Oliver Van Kaick,Carleton University,1
+arpwhite@scs.carleton.ca,Tony White,Carleton University,1
+sabine.bergler@concordia.ca,Sabine Bergler,Concordia University,1
+gregory.butler@concordia.ca,Gregory Butler,Concordia University,1
+tse-hsun.chen@concordia.ca,Tse-Hsun Chen,Concordia University,1
+thomas.fevens@concordia.ca,Thomas Fevens,Concordia University,1
+tristan.glatard@concordia.ca,Tristan Glatard,Concordia University,1
+brigitte.jaumard@concordia.ca,Brigitte Jaumard,Concordia University,1
+marta.kersten@concordia.ca,Marta Kersten-Oertel,Concordia University,1
+leila.kosseim@concordia.ca,Leila Kosseim,Concordia University,1
+adam.krzyzak@concordia.ca,Adam Krzyzak,Concordia University,1
+essam.mansour@concordia.ca,Essam Mansour,Concordia University,1
+sudhir.mudur@concordia.ca,Sudhir Mudur,Concordia University,1
+charalambos.poullis@concordia.ca,Charalambos Poullis,Concordia University,1
+juergen.rilling@concordia.ca,Juergen Rilling,Concordia University,1
+nemat.shiri@concordia.ca,Nematollaah Shiri,Concordia University,1
+chingyee.suen@concordia.ca,Ching Yee Suen,Concordia University,1
+rene.witte@concordia.ca,René Witte,Concordia University,1
+yiming.xiao@concordia.ca,Yiming Xiao,Concordia University,1
+hassan.hajjdiab@concordia.ca,Hassan Hajjdiab,Concordia University,1
+Ali.Jannatpour@concordia.ca,Ali Jannatpour,Concordia University,1
+zixi.quan@concordia.ca,Zixi Quan,Concordia University,1
+abihlo@mun.ca,Alex Bihlo,Memorial University of Newfoundland,1
+brown@mun.ca,Edward Brown,Memorial University of Newfoundland,1
+scarr@mun.ca,Steve Carr,Memorial University of Newfoundland,1
+dchurchill@mun.ca,David Churchill,Memorial University of Newfoundland,1
+vpradodafons@mun.ca,Vinicius Prado da Fonseca,Memorial University of Newfoundland,1
+xiantaj@mun.ca,Xianta Jiang,Memorial University of Newfoundland,1
+theo@mun.ca,Theodore S. Norvell,Memorial University of Newfoundland,1
+lourdes.pena@mun.ca,Lourdes Pena-Castillo,Memorial University of Newfoundland,1
+tstricco@mun.ca,Terrence Tricco,Memorial University of Newfoundland,1
+usefi@mun.ca,Hamid Usefi,Memorial University of Newfoundland,1
+av@mun.ca,Andrew Vardy,Memorial University of Newfoundland,1
+harold@mun.ca,Harold Wareham,Memorial University of Newfoundland,1
+aabhari@cs.ryerson.ca,Abdolreza Abhari,Ryerson University,1
+cding@cs.ryerson.ca,Cherie Ding,Ryerson University,1
+nfarsad@ryerson.ca,Nariman Farsad,Ryerson University,1
+eharley@ryerson.ca,Eric Harley,Ryerson University,1
+elodie.lugez@ryerson.ca,Elodie Lugez,Ryerson University,1
+samiri@cs.ryerson.ca,Ali Miri,Ryerson University,1
+asadeghi@ryerson.ca,Alireza Sadeghian,Ryerson University,1
+m3santos@ryerson.ca,Marcus Santos,Ryerson University,1
+rick.valenzano@ryerson.ca,Rick Valenzano,Ryerson University,1
+wangcs@ryerson.ca,Guanghui (Richard) Wang,Ryerson University,1
+paul.cook@unb.ca,Paul Cook,University of New Brunswick,1
+mwf@unb.ca,Michael Fleming,University of New Brunswick,1
+ghorbani@unb.ca,Ali Ghorbani,University of New Brunswick,1
+pochec@unb.ca,Przemyslaw Pochec,University of New Brunswick,1
+hzhang@unb.ca,Huajie Zhang,University of New Brunswick,1
+Eduardo.Castillo@unb.ca,Eduardo Castillo Guerra,University of New Brunswick,1
+abari@ontariotechu.ca,Amirali Abari,University of Ontario Institute of Technology,1
+Christopher.Collins@uoit.ca,Christopher M. Collins,University of Ontario Institute of Technology,1
+mehran.ebrahimi@uoit.ca,Mehran Ebrahimi,University of Ontario Institute of Technology,1
+mikael.eklund@ontariotechu.ca,Mikael Eklund,University of Ontario Institute of Technology,1
+salma.karray@ontariotechu.ca,Salma Karray,University of Ontario Institute of Technology,1
+fletcher.lu@ontariotechu.ca,Fletcher Lu,University of Ontario Institute of Technology,1
+Masoud.Makrehchi@uoit.ca,Masoud Makrehchi,University of Ontario Institute of Technology,1
+isabel.pedersen@uoit.ca,Isabel Pedersen,University of Ontario Institute of Technology,1
+ken.pu@ontariotechu.net,Ken Pu,University of Ontario Institute of Technology,1
+faisal.qureshi@uoit.ca,Faisal Qureshi,University of Ontario Institute of Technology,1
+jing.ren@ontariotechu.ca,Jing Ren,University of Ontario Institute of Technology,1
+jarek@ontariotechu.ca,Jarek Szlichta,University of Ontario Institute of Technology,1
+ying.zhu@uoit.ca,Ying Zhu,University of Ontario Institute of Technology,1
+heidar.davoudi@uoit.ca,Kourosh Davoudi,University of Ontario Institute of Technology,1
+kobti@uwindsor.ca,Ziad Kobti,University of Windsor,1
+imran@uwindsor.ca,Imran Ahmad,University of Windsor,1
+Dima.Alhadidi@uwindsor.ca,Dima Alhadidi,University of Windsor,1
+boufama@uwindsor.ca,Boubakeur Boufama,University of Windsor,1
+cezeife@uwindsor.ca,Christie Ezeife,University of Windsor,1
+hfani@uwindsor.ca,Hossein Fani,University of Windsor,1
+rgras@uwindsor.ca,Robin Gras,University of Windsor,1
+jlu@uwindsor.ca,Jianguo Lu,University of Windsor,1
+pooya@uwindsor.ca,Pooya Moradian Zadeh,University of Windsor,1
+lrueda@uwindsor.ca,Luis Rueda,University of Windsor,1
+shsaad@uwindsor.ca,Sherif Saad Ahmed,University of Windsor,1
+Saeed.Samet@uwindsor.ca,Saeed Samet,University of Windsor,1
+danwu@uwindsor.ca,Dan Wu,University of Windsor,1
+robert.bamler@uni-tuebingen.de,Robert Bamler,University of Tübingen,1
+parrt@cs.usfca.edu,Terence Parr,University of San Francisco,1
+m.abayazid@utwente.nl,Momen Abayazid,University of Twente,1

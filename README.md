@@ -1,2 +1,2 @@
 # email-machine-gun
-Python script to send emails to university professors without effort.
+It's a Python script for sending emails to university professors without effort.
