@@ -1,0 +1,473 @@
+name,email,uni,send_status,subject,transcript,field,group
+X,X,University College Dublin,1,none,TRUE,none,none
+X,X,University of Potsdam,1,none,TRUE,none,none
+X,X,University of Victoria,1,none,TRUE,none,none
+X,X,Sorbonne University,1,none,FALSE,none,none
+X,X,Max Planck Institute,1,none,TRUE,none,none
+X,X,University of Edinburgh,1,none,TRUE,none,none
+X,X,University of Arizona,1,none,FALSE,none,none
+X,X,University of Eastern Finland,1,none,TRUE,none,none
+X,X,Munster Technological University,1,none,TRUE,none,none
+X,X,University of Louisville,1,none,TRUE,none,none
+X,X,South Ural State University,1,none,TRUE,none,none
+X,X,Aalto University,1,none,TRUE,none,none
+X,X,University of Ibn Zohr,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,FALSE,none,none
+X,X,Queensland University of Technology,1,none,TRUE,none,none
+X,X,CISPA Helmholtz Center for Information,1,none,TRUE,none,none
+X,X,University of Trento,1,none,TRUE,none,none
+X,X,Johannes Kepler University,1,none,TRUE,none,none
+X,X,Radboud University,1,none,TRUE,none,none
+X,X,Washington State University,1,none,TRUE,none,none
+X,X,Temple University,1,none,TRUE,none,none
+X,X,Malardalen University,1,none,TRUE,none,none
+X,X,Singapore Management University,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,FALSE,none,none
+X,X,ETS,1,none,TRUE,none,none
+X,X,LIG,1,none,TRUE,none,none
+X,X,QCRI,1,none,TRUE,none,none
+X,X,Princeton,1,none,TRUE,none,none
+X,X,Princeton,1,none,TRUE,none,none
+X,X,Princeton,1,none,TRUE,none,none
+X,X,Princeton,1,none,TRUE,none,none
+X,X,Princeton,1,none,TRUE,none,none
+X,X,KU Leuven,1,none,TRUE,none,none
+X,X,ETH,1,none,TRUE,none,none
+X,X,ETH,1,none,TRUE,none,none
+X,X,ETH,1,none,TRUE,none,none
+X,X,Queen Mary,1,none,TRUE,none,none
+X,X,Queen Mary,1,none,TRUE,none,none
+X,X,Dalhousie University,1,none,FALSE,none,none
+X,X,McGill University,1,none,FALSE,none,none
+X,X,Dalhousie University,1,none,FALSE,none,none
+X,X,Dalhousie University,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,University of Ottawa,1,none,TRUE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,McMaster University,1,none,FALSE,none,none
+X,X,University of Victoria,1,none,TRUE,none,none
+X,X,University of Alberta,1,none,TRUE,none,none
+X,X,University of Concordia,1,none,FALSE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,University of Waterloo,1,none,TRUE,none,none
+X,X,University of Waterloo,1,none,FALSE,none,none
+X,X,University of Lethbridge,1,none,FALSE,none,none
+X,X,NYU,1,none,TRUE,none,none
+X,X,Music and Artificial Intelligence Lab,1,none,FALSE,none,none
+X,X,FAU,1,none,TRUE,none,none
+X,X,FAU,1,none,TRUE,none,none
+X,X,University of Alberta,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,University of Concordia,1,none,TRUE,none,none
+X,X,York University,1,none,TRUE,none,none
+X,X,University of Ottawa,1,none,TRUE,none,none
+X,X,University of Toronto,1,none,TRUE,none,none
+X,X,University of Lethbridge,1,none,TRUE,none,none
+X,X,Queen's University,1,none,TRUE,none,none
+X,X,University of Windsor,1,none,TRUE,none,none
+X,X,University of Carleton,1,none,FALSE,none,none
+X,X,Lakehead University,1,none,TRUE,none,none
+X,X,University of Victoria,1,none,FALSE,none,none
+X,X,Nordic SMC,1,none,FALSE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,Utrecht University,1,none,TRUE,none,none
+X,X,EPFL,1,none,TRUE,none,none
+X,X,McMaster University,1,none,FALSE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,Queen's University,1,none,TRUE,none,none
+X,X,University of Western Ontario,1,none,FALSE,none,none
+X,X,University of Toronto,1,none,FALSE,none,none
+X,X,University of Saskatchewan,1,none,FALSE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Carleton,1,none,TRUE,none,none
+X,X,Ontario Tech University,1,none,TRUE,none,none
+X,X,Ryerson University,1,none,FALSE,none,none
+X,X,University of Regina,1,none,FALSE,none,none
+X,X,University of Regina,1,none,TRUE,none,none
+X,X,University of New Brunswick,1,none,TRUE,none,none
+X,X,University of Regina,1,none,FALSE,none,none
+X,X,University College Dublin,1,none,TRUE,none,none
+X,X,Karolinska Institutet,1,none,TRUE,none,none
+X,X,University of Helsinki,1,none,TRUE,none,none
+X,X,University of Edinburgh,1,none,TRUE,none,none
+X,X,University of Trento,1,none,TRUE,none,none
+X,X,NYU,1,none,TRUE,none,none
+X,X,University of Western Ontario,1,none,FALSE,none,none
+X,X,University of Manitoba,1,none,TRUE,none,none
+X,X,University of Guelph,1,none,TRUE,none,none
+X,X,University of Oslo,1,none,TRUE,none,none
+X,X,University of Amsterdam,1,none,TRUE,none,none
+X,X,University of Oslo,1,none,TRUE,none,none
+X,X,University of Oslo,1,none,TRUE,none,none
+X,X,University of Oslo,1,none,TRUE,none,none
+X,X,KU Leuven,1,none,TRUE,none,none
+X,X,ETH,1,none,TRUE,none,none
+X,X,Vrije Universiteit Amsterdam,1,none,TRUE,none,none
+X,X,University Medical Centre Groningen,1,none,TRUE,none,none
+X,X,LACDR,1,none,TRUE,none,none
+X,X,Amsterdam UMC,1,none,TRUE,none,none
+X,X,MultiX,1,none,TRUE,none,none
+X,X,University of Groningen,1,none,TRUE,none,none
+X,X,Medical Image Analysis Group,1,none,TRUE,none,none
+X,X,University of Groningen,1,none,TRUE,none,none
+X,X,University of Surrey,1,none,TRUE,none,none
+X,X,LCSB,1,none,TRUE,none,none
+X,X,Maastricht University,1,none,TRUE,none,none
+X,X,University of Cambridge,1,none,TRUE,none,none
+X,X,Missouri University,1,none,TRUE,none,none
+X,X,Norwegian University,1,none,TRUE,none,none
+X,X,TU Delft,1,none,TRUE,none,none
+X,X,University of Rhode Island,1,none,FALSE,none,none
+X,X,Utrecht University,1,none,FALSE,none,none
+X,X,University of Sydney,1,none,TRUE,none,none
+X,X,University of Sherbrooke,1,none,TRUE,none,none
+X,X,University of Alberta,1,none,TRUE,none,none
+X,X,The Arctic University of Norway,1,none,TRUE,none,none
+X,X,Aalborg University,1,none,TRUE,none,none
+X,X,Monash University,1,none,TRUE,none,none
+X,X,University of South Australia,1,none,TRUE,none,none
+X,X,Fraunhofer MEVIS,1,none,TRUE,none,none
+X,X,Dalhousie University,1,none,FALSE,none,none
+X,X,Dalhousie University,1,none,TRUE,none,none
+X,X,Dalhousie University,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,McGill University,1,none,FALSE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,McGill University,1,none,TRUE,none,none
+X,X,McMaster University,1,none,FALSE,none,none
+X,X,McMaster University,1,none,TRUE,none,none
+X,X,Queen's University,1,none,TRUE,none,none
+X,X,Queen's University,1,none,TRUE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Guelph,1,none,FALSE,none,none
+X,X,University of Manitoba,1,none,TRUE,none,none
+X,X,University of Manitoba,1,none,TRUE,none,none
+X,X,University of Manitoba,1,none,TRUE,none,none
+X,X,University of Manitoba,1,none,TRUE,none,none
+X,X,University of Ottawa,1,none,TRUE,none,none
+X,X,University of Ottawa,1,none,TRUE,none,none
+X,X,University of Saskatchewan,1,none,TRUE,none,none
+X,X,University of Toronto,1,none,TRUE,none,none
+X,X,University of Toronto,1,none,TRUE,none,none
+X,X,University of Toronto,1,none,TRUE,none,none
+X,X,University of Victoria,1,none,TRUE,none,none
+X,X,University of Western Ontario,1,none,TRUE,none,none
+X,X,University of Waterloo,1,none,TRUE,none,none
+X,X,University of Waterloo,1,none,TRUE,none,none
+X,X,University of York,1,none,TRUE,none,none
+X,X,University of Carleton,1,none,FALSE,none,none
+X,X,University of Concordia,1,none,TRUE,none,none
+X,X,University of Concordia,1,none,TRUE,none,none
+X,X,University of Concordia,1,none,TRUE,none,none
+X,X,University of Memorial,1,none,TRUE,none,none
+X,X,University of Memorial,1,none,TRUE,none,none
+X,X,University of Memorial,1,none,TRUE,none,none
+X,X,University of Memorial,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,TRUE,none,none
+X,X,University of Ryerson,1,none,TRUE,none,none
+X,X,University of Brunswick,1,none,FALSE,none,none
+X,X,UOIT,1,none,TRUE,none,none
+X,X,University of Windsor,1,none,TRUE,none,none
+X,X,University of Windsor,1,none,FALSE,none,none
+X,X,University of Lakehead,1,none,TRUE,none,none
+X,X,University of Lakehead,1,none,TRUE,none,none
+X,X,University of Lakehead,1,none,TRUE,none,none
+X,X,University of Lakehead,1,none,TRUE,none,none
+X,X,University of Lakehead,1,none,TRUE,none,none
+X,X,University of Lethbridge,1,none,FALSE,none,none
+X,X,Boston University,1,none,TRUE,none,none
+X,X,Boston University,1,none,TRUE,none,none
+X,X,Boston University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Northeastern University,1,PROSPECTIVE-PHD,TRUE,none,none
+X,X,SEAS,1,none,TRUE,none,none
+X,X,MIT,1,none,TRUE,none,none
+X,X,DTU,1,none,TRUE,none,none
+X,X,University of Oldenburg,1,none,TRUE,none,none
+X,X,DTU,1,none,TRUE,none,none
+X,X,Institute of Sound & Vibration Research,1,none,TRUE,none,none
+X,X,National University of Singapore,1,none,TRUE,none,none
+X,X,"Department of Speech, Hearing and Phonetic Sciences",1,none,TRUE,none,none
+X,X,OEAW,1,none,TRUE,none,none
+X,X,OEAW,1,none,TRUE,none,none
+X,X,OEAW,1,none,TRUE,none,none
+X,X,DMT Lab,1,none,TRUE,none,none
+X,X,Johns Hopkins University,1,none,TRUE,none,none
+X,X,Aalto University,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,University of Calgary,1,none,FALSE,none,none
+X,X,University of Calgary,1,none,FALSE,none,none
+X,X,University of Calgary,1,none,FALSE,none,none
+X,X,University of Calgary,1,none,TRUE,none,none
+X,X,Univeristy of Kaiserslautern,1,none,TRUE,none,none
+X,X,CoRAL,1,[jobs] Ph.D. Fall 2022 - Danial_Ebrat,TRUE,none,none
+X,X,Rutgers University,1,none,TRUE,none,none
+X,X,University of Calgary,1,Graduate Student Application Danial_Ebrat,TRUE,none,none
+X,X,University of McMaster,1,none,TRUE,none,none
+X,X,University of New Hampshire,1,none,TRUE,none,none
+X,X,UPC,1,none,TRUE,none,none
+X,X,Mississippi State University,1,none,TRUE,none,none
+X,X,Griffith University,1,none,TRUE,none,none
+X,X,UCL,1,PhD-App Danial Ebrat,TRUE,none,none
+X,X,Kings College Londo,1,none,TRUE,none,none
+X,X,UPF,1,none,TRUE,none,none
+X,X,UPF,1,none,TRUE,none,none
+X,X,Yale University,1,none,FALSE,none,none
+X,X,Turing AI World,1,none,FALSE,none,none
+X,X,University of Edinburgh,1,none,FALSE,none,none
+X,X,NTNU,1,none,FALSE,none,none
+X,X,CSC,1,none,FALSE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Donders Institute,1,none,FALSE,none,none
+X,X,Ghent University,1,Full-time PhD Position in Biotech Data Analysis,TRUE,none,none
+X,X,CWI,1,none,FALSE,none,none
+X,X,YangLab,1,none,FALSE,none,none
+X,X,Ryerson University,1,none,FALSE,none,none
+X,X,University of Bath,1,none,FALSE,none,none
+X,X,Mississippi State University,1,none,TRUE,none,none
+X,X,Neuromorphic AI Lab,1,none,TRUE,none,none
+X,X,Curtin University,1,none,FALSE,none,none
+X,X,University of Copenhagen,1,none,FALSE,none,none
+X,X,the clinical AI group,1,none,FALSE,none,none
+X,X,Munster Technological University,1,none,TRUE,none,none
+X,X,University of Barcelona,1,PhD application NEU-CHIP,TRUE,none,none
+X,X,Radboud University,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Guelph,1,none,FALSE,none,none
+X,X,University of Concordia,1,none,FALSE,none,none
+X,X,University of Concordia,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Ryerson,1,none,FALSE,none,none
+X,X,University of Regina,1,none,FALSE,none,none
+X,X,University of Regina,1,none,FALSE,none,none
+X,X,UNB,1,none,FALSE,none,none
+X,X,UNB,1,none,FALSE,none,none
+X,X,UNB,1,none,FALSE,none,none
+X,X,UNB,1,none,FALSE,none,none
+X,X,UNB,1,none,FALSE,none,none
+X,X,University of Surrey,1,none,FALSE,none,none
+X,X,University of Victoria,1,none,FALSE,none,none
+X,X,UNSW,1,none,FALSE,none,none
+X,X,University of Sussex,1,none,FALSE,none,none
+X,X,University of Sussex,1,Ph.D. Application Fall 2022,FALSE,none,none
+X,X,University of Victoria,1,none,FALSE,none,none
+X,X,University of Victoria,1,none,FALSE,none,none
+X,X,University of Victoria,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Perk Lab,1,none,TRUE,none,none
+X,X,Queen's University,1,MIB lab research position inquiry,FALSE,none,none
+X,X,Med-I Lab,1,none,FALSE,none,none
+X,X,iStudio Lab,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,Queen's University,1,none,FALSE,none,none
+X,X,University of McMaster,1,none,FALSE,none,none
+X,X,University of McMaster,1,biomedic.AI: Ph.D. position,FALSE,none,none
+X,X,University of McMaster,1,none,FALSE,none,none
+X,X,Vienna University of Technology,1,none,FALSE,none,none
+X,X,TU Wien,1,none,FALSE,none,none
+X,X,University of Oulu,1,none,FALSE,none,none
+X,X,CAIR,1,none,FALSE,none,none
+X,X,Aalto University,1,none,FALSE,none,none
+X,X,UCL,1,none,FALSE,none,none
+X,X,Chalmers University of Technology,1,none,FALSE,none,none
+X,X,University of Birmingham,1,none,FALSE,none,none
+X,X,CHUV,1,none,FALSE,none,none
+X,X,University of Basel,1,none,FALSE,none,none
+X,X,MTEC,1,none,FALSE,none,none
+X,X,MAIVV,1,none,FALSE,none,none
+X,X,GMU,1,Prospective PhD Student,TRUE,none,none
+X,X,KAUST,1,Danial Ebrat KAUST PhD,FALSE,none,none
+X,X,NICHE Research Group,1,none,FALSE,none,none
+X,X,EAISI,1,none,FALSE,none,none
+X,X,UNSW,1,none,TRUE,none,none
+X,X,University of Edinburgh,1,none,FALSE,none,none
+X,X,University of Southern Denmark,1,none,FALSE,none,none
+X,X,University of Bristol,1,none,FALSE,none,none
+X,X,AIISC,1,none,FALSE,none,none
+X,X,Orebro University,1,none,FALSE,none,none
+X,X,UCI,1,none,FALSE,none,none
+X,X,UCI,1,none,FALSE,none,none
+X,X,UCI,1,none,FALSE,none,none
+X,X,UCI,1,none,FALSE,none,none
+X,X,UCI,1,none,FALSE,none,none
+X,X,UCI,1,none,FALSE,none,none
+X,X,University Hospital Bern,1,none,FALSE,none,none
+X,X,University of Vienna,1,none,FALSE,none,none
+X,X,INS Lab,1,none,FALSE,none,none
+X,X,SE(3),1,none,FALSE,none,none
+X,X,Orebro University,1,none,FALSE,none,none
+X,X,Ilmenau University of Technology,1,none,FALSE,none,none
+X,X,AIIA,1,none,FALSE,none,none
+X,X,MLSim,1,none,FALSE,none,none
+X,X,CAIRO,1,none,FALSE,none,none
+X,X,LCBD-PI,1,none,FALSE,none,none
+X,X,University of Nottingham,1,none,FALSE,none,none
+X,X,University of Nevada,1,none,FALSE,none,none
+X,X,University of Surrey,1,none,FALSE,none,none
+X,X,University of Toronto,1,none,FALSE,none,none
+X,X,CLaSP lab,1,none,FALSE,none,none
+X,X,Indiana University,1,none,FALSE,none,none
+X,X,SAIGE,1,none,FALSE,none,none
+X,X,Indiana University,1,none,FALSE,none,none
+X,X,Indiana University,1,none,FALSE,none,none
+X,X,Indiana University,1,none,FALSE,none,none
+X,X,SoCo Lab,1,none,FALSE,none,none
+X,X,ASPIRE,1,none,FALSE,none,none
+X,X,CVSSP,1,none,FALSE,none,none
+X,X,Georgia Institute of Technology,1,none,FALSE,none,none
+X,X,Vienna University of Technology,1,none,FALSE,none,none
+X,X,University of London,1,none,FALSE,none,none
+X,X,loyola university,1,none,FALSE,none,none
+X,X,University of Illinois,1,none,FALSE,none,none
+X,X,TU Delft,1,none,FALSE,none,none
+X,X,FAU,1,none,FALSE,none,none
+X,X,University of Amsterdam,1,none,FALSE,music,MCG
+X,X,Drexel University,1,none,FALSE,none,none
+X,X,Brinks Lab,1,BIOLab_WP1,FALSE,none,none
+X,X,MBZUAI,1,none,FALSE,none,none
+X,X,LiteRL group,1,none,FALSE,none,none
+X,X,MediCIS/LTSI,1,none,FALSE,none,none
+X,X,Institut Curie,1,none,FALSE,none,none
+X,X,Monash University,1,none,TRUE,none,none
+X,X,Yale University,1,none,FALSE,none,none
+X,X,Turing AI World,1,none,FALSE,none,none
+X,X,Leiden University,1,"PhD candidate, Robustness Verification for Meta-learned Neural Networks",,none,none
+X,X,University of Edinburgh,1,none,FALSE,none,none
+X,X,NTNU,1,none,FALSE,none,none
+X,X,CSC,1,none,FALSE,none,none
+X,X,Northeastern University,1,none,TRUE,none,none
+X,X,Donders Institute,1,none,FALSE,none,none
+X,X,Ghent University,1,Full-time PhD Position in Biotech Data Analysis,TRUE,none,none
+X,X,CWI,1,none,FALSE,none,none
+X,X,YangLab,1,none,FALSE,none,none
+X,X,Ryerson University,1,none,FALSE,none,none
+X,X,University of Bath,1,none,FALSE,none,none
+X,X,Mississippi State University,1,none,TRUE,none,none
+X,X,Neuromorphic AI Lab,1,none,TRUE,none,none
+X,X,Curtin University,1,none,FALSE,none,none
+X,X,University of Copenhagen,1,none,FALSE,none,none
+X,X,the clinical AI group,1,none,FALSE,none,none
+X,X,Munster Technological University,1,none,TRUE,none,none
+X,X,University of Barcelona,1,PhD application NEU-CHIP,TRUE,none,none
+X,X,Radboud University,1,none,FALSE,none,none
+X,X,University of Western Australia,1,none,TRUE,none,none
+X,X,HEAD Lab,1,none,FALSE,none,none
+X,X,Intelligent Instruments Lab,1,none,FALSE,none,none
+X,X,KTH,1,none,FALSE,music,MUSAiC 
+X,X,SOLID Lab,1,none,FALSE,none,none
+X,X,University of Agder,1,Ecology machine learning and bioacoustics,FALSE,none,none
+X,X,SFU,1,Digital Health Research Laboratory _ PROSPECTIVE-PHD,FALSE,none,none
+X,X,DAI lab,1,none,FALSE,none,none
+X,X,JAIL,1,none,FALSE,none,none
+X,X,TU Delft,1,none,FALSE,none,none
+X,X,HICT,1,none,FALSE,none,none
+X,X,TU Delft,1,none,FALSE,none,none
+X,X,qurAI,1,none,FALSE,none,none
+X,X,cMAS,1,none,FALSE,none,none
+X,X,IKIM,1,PhD Candidate: AI in medical data,TRUE,none,none
+X,X,SFU,1,none,TRUE,none,none
+X,X,Universidad de Malaga,1,none,FALSE,music,ATIC
+X,X,University of Tartu,1,PhD Candidate: Disentangled embeddings of music similarity for personalized recommendation,FALSE,music,none
+X,X,Ohio State University,1,none,FALSE,none,none
+X,X,Loughborough University,1,none,FALSE,none,none
+X,X,University of Birmingham,1,none,FALSE,none,none
+X,X,University of Pittsburgh,1,none,FALSE,none,none
+X,X,Van 't Hoff Institute,1,none,FALSE,none,none
+X,X,QMUL,1,none,FALSE,music,C4DM
+X,X,QMUL,1,none,FALSE,music,Music Cognition Lab
+X,X,QMUL,1,none,FALSE,music,Augmented Instruments Laboratory
+X,X,QMUL,1,none,FALSE,music,EPSRC+AHRC
+X,X,QMUL,1,none,FALSE,music,C4DM
+X,X,University of Groningen,1,none,FALSE,none,none
+X,X,University of Melbourne,1,none,FALSE,none,none
+X,X,Sorbonne University,1,none,FALSE,music,ACIDS
+X,X,University of Bari,1,none,FALSE,music,SisInf 
+X,X,University of Southampton,1,none,FALSE,none,VLC
+X,X,JKU,1,none,FALSE,none,none
+X,X,JKU,1,none,FALSE,music,none
+X,X,JKU,1,none,FALSE,music,LIT AI  Lab
+X,X,University of Glasgow,1,none,FALSE,none,none
+X,X,Edinburgh University,1,none,FALSE,none,edbiomed
+X,X,Sorbonne University,1,none,FALSE,music,REPMUS
+X,X,Sorbonne University,1,none,FALSE,music,none
+X,X,University of Lille,1,none,FALSE,music,Algomus team
+X,X,University of Amsterdam,1,none,FALSE,music,clclab
+X,X,University of Oslo,1,none,FALSE,music,RITMO
+X,X,University of California,1,none,FALSE,music,Berg Lab
+X,X,UCSD,1,none,FALSE,music,none
+X,X,Harvey Mudd College,1,none,FALSE,music,none
+X,X,FAU,1,none,FALSE,music,none
+X,X,University of Amsterdam,1,none,FALSE,music,MCG
+X,X,IRCAM,1,none,FALSE,music, Sound Analysis-Synthesis team
+X,X, Northwestern University,1,none,FALSE,music,Interactive Audio Lab
+X,X,TELECOM Paris,1,none,FALSE,music,S2A
+X,X,JKU,1,none,FALSE,music,none
+X,X,Monash University,1,none,TRUE,none,none
+X,X,Deakin University,1,none,FALSE,none,none
+X,X,University of Huddersfield,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,music,none
+X,X,University of Edinburgh,1,AI-powered neuroradiological support system: PhD Applicant,FALSE,none,none
+X,X,Deakin University,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,none,none
+X,X,University of Plymouth,1,none,FALSE,none,none
+X,X,Georgia state University,1,prospective student/PHD,FALSE,none,none
+X,X,Johannes Gutenberg University,1,none,FALSE,music,none
+X,X,Dalhousie University,1,none,FALSE,music,none
+X,X,University of Glasgow,1,none,FALSE,music,none
+X,X,University of Amsterdam,1,PhD Applicant: responsible data management and NLP for mental health data,FALSE,none,none
+X,X,Murdoch University,1,PhD scholarship on MALDI imaging pattern recognitions,FALSE,none,none
+X,X,Concordia University,1,none,FALSE,none,IMPACT Lab
+X,X,Concordia University,1,none,FALSE,none,none
+X,X,University of Amsterdam,1,none,FALSE,none,AMLab
+X,X,University of Sydney,1,none,FALSE,none,none
+X,X,University of Alberta,1,none,FALSE,music,AI4S^2
+X,X,ICT,1,none,FALSE,music,Intelligent Human Perception Lab
