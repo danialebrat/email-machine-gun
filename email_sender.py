@@ -114,5 +114,5 @@ for index, row in df_professors.iterrows():
     df_professors.to_csv(csv_name, index=False)
     mail_server.quit()
 
-    # waiting for 10 min
+    # waiting for 5 min
     time.sleep(300)
